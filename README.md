@@ -3,8 +3,6 @@
 <p align="Center"> 
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Jayabharathi+Hari.;I'm+a+Software+Engineer.;Aspirant+AL-ML+Engineer;" alt="typing intro">  
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satnaing&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
-
 
 - 🔭 I have 9+ years experiance as a **Software Engineer**
 
