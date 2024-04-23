@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Jayabharathi-Hari-Vijayakumar/Jayabharathi-Hari-Vijayakumar/blob/main/cover.jpeg?raw=true)
 
 <p align="Center"> 
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Jayabharathi+Hari.;I'm+a+Software+Engineer.;Aspirant+AL-ML+Engineer;" alt="typing intro">  
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Jayabharathi+Hari.;" alt="typing intro">  
 </p>
 
 <h3 align="center">Accomplished Software Engineer | Aspiring Machine Learning Engineer | Master's in Data Science Candidate | Expertise in Backend Development | Passionate about AI & ML | Seeking Opportunities for Innovation & Impact</h3>
