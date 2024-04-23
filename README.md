@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/53733092/172211221-eeb91d81-b3fd-47dc-b862-e781876f2a8f.png)
+![alt text](https://github.com/Jayabharathi-Hari-Vijayakumar/Jayabharathi-Hari-Vijayakumar/blob/main/cover.jpeg?raw=true)
 
 https://Users/jayabharathivijayakumar/Library/CloudStorage/GoogleDrive-jbee004@gmail.com/My%20Drive/Screenshot%202024-02-29%20at%202.04.39%E2%80%AFPM.png 
 <p align="center">
