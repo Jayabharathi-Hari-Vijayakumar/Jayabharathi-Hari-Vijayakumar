@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently pursuing  **Masters in Data Science @ Deakin University(Online)**
 
-- 💬 Ask me about **React, NextJS, NodeJS, MongoDB, Mongoose, Express, Firebase.**
+- 📫 How to reach me **Jayabharathi.h@outlook.com**
 
-- 📫 How to reach me **contact@satnaing.dev**
+- 🚀 My website 👉🏻 <a href="https://www.jayabharathi-hari.com" target="blank">https://www.jayabharathi-hari.com</a>
 
-- 🚀 My website 👉🏻 <a href="https://satnaing.dev" target="blank">https://satnaing.dev</a>
-
-- 📰 My blog 👉🏻 <a href="https://satnaing.dev/blog" target="blank">https://satnaing.dev/blog</a>
+- 📰 My Projects 👉🏻 <a href="https://www.jayabharathi-hari.com/portfolio.html" target="blank">https://www.jayabharathi-hari.com/portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +24,11 @@
 <a href="https://instagram.com/satnaing.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Sat Naing's Instagram Account" /></a>
 </p>
 
+
+
+
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
@@ -44,10 +47,6 @@
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
 </p>
-
-![SatNaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnaing&theme=tokyonight)
-
-
 
 
 
