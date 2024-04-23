@@ -19,9 +19,12 @@
 <h1 align = "center"> 💻 Tech Stack: </h1>
 
 <p align = "center">
+  <!--
 <a>
   <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
 </a>
+  -->
+  
 <a>
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
 </a>
