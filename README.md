@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Jayabharathi+Hari.;I'm+a+Software+Engineer.;Aspirant+AL-ML+Engineer;" alt="typing intro">  
 </p>
 
-<h3 align="center">I'm a student/software developer with a passion for building things that make a difference. When I'm not coding, you can find me gaming or watching anime. I'm always looking to collaborate and learn from others, so don't hesitate to reach out!</h3>
+<h3 align="center">Accomplished Software Engineer | Aspiring Machine Learning Engineer | Master's in Data Science Candidate | Expertise in Backend Development | Passionate about AI & ML | Seeking Opportunities for Innovation & Impact</h3>
 
 <h1 align="center"> My Socials </h1>
 <p align="center">
