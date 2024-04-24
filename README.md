@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Jayabharathi+Hari.;" alt="typing intro">  
 </p>
 
+<p align = "center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+this+is+Vaibhav+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile+!" alt="Typing SVG" /></p>
+
 <h3 align="center">Accomplished Software Engineer | Aspiring Machine Learning Engineer | Master's in Data Science Candidate | Expertise in Backend Development | Passionate about AI & ML | Seeking Opportunities for Innovation & Impact</h3>
 
 <h1 align="center"> My Socials </h1>
