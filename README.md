@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Jayabharathi-Hari-Vijayakumar/Jayabharathi-Hari-Vijayakumar/blob/main/cover.jpeg?raw=true)
 
 <p align="Center"> 
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Jayabharathi+Hari.;" alt="typing intro">  
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello%2C+My+name's+Jayabharathi+Hari+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile+!" alt="typing intro">  
 </p>
 
 <p align = "center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+this+is+Vaibhav+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile+!" alt="Typing SVG" /></p>
