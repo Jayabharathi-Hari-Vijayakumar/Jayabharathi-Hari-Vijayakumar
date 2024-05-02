@@ -4,14 +4,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello%2C+This+is+Jayabharathi+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile+!" alt="typing intro">  
 </p>
 
-<h3 align="center">Accomplished Software Engineer | Aspiring Machine Learning Engineer | Master's in Data Science Candidate | Expertise in Backend Development | Passionate about AI & ML | Seeking Opportunities for Innovation & Impact</h3>
+<h3 align="center"> 🔭 Accomplished Software Engineer with 9+ years experiance | 🌱 Aspiring Machine Learning Engineer | Master's in Data Science Candidate | 🚀 Expertise in Backend Development | 🚀 Passionate about AI & ML | Seeking Opportunities for Innovation & Impact</h3>
 
 <h1 align="center"> My Socials </h1>
 <p align="center">
 <a href = "mailto:Jayabharathi.h@outlook.com" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201382070-00f1f9ba-c37d-4b0a-9270-730e1d646b91.png" alt="gmail" width="40" height="40"></a>
 <a href = "https://www.linkedin.com/in/jayabharathi/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="40" height="40"></a>
 <a href = "https://twitter.com/Jayabharathi_H" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="40" height="40"></a>
-<a href = "" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="40" height="40"></a>
+<!-- <a href = "" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="40" height="40"></a> -->
 <a href = "https://www.jayabharathi-hari.com" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271533-4619f6b3-586c-4123-8427-e231f52f10af.png" alt="portfolio website" width="40" height="40"></a>
 </p>
 
@@ -52,13 +52,25 @@
 
 </p>
 
+<h2 align = "center">  My AI ML Projects </h2>
+
+<table align = "center">
+  <tr>
+    <th>ML Projects</th>
+    <th>NN and CV Projects</th>
+  </tr>
+  <tr>
+    <td>Breast Cancer Classification</td>
+    <td>Personal Loan Campaign Purchase Prediction</td>
+  </tr>
+   <tr>
+    <td>Breast Cancer Classification</td>
+    <td>Personal Loan Campaign Purchase Prediction</td>
+  </tr>
+</table>
 
 
-- 🔭 I have 9+ years experiance as a **Software Engineer**
-
-- 🌱 I’m currently pursuing  **Masters in Data Science @ Deakin University(Online)**
-
-- 📫 How to reach me **Jayabharathi.h@outlook.com**
+- 📫 How to reach me **Jayabharathi.h@outlook.com** 
 
 - 🚀 My website 👉🏻 <a href="https://www.jayabharathi-hari.com" target="blank">https://www.jayabharathi-hari.com</a>
 
