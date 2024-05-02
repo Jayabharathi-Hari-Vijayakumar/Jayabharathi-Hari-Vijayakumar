@@ -80,19 +80,19 @@
     <td><a href="https://www.jayabharathi-hari.com/Author_Birth_Sign_Detection_From_blog_authorship_corpus.html">Author Birth Sign Detection</br>from Blog Corpus</a></td> 
   </tr>
   <tr>
-    <td><a href="#">Recommendation System</a></td> 
-    <td><a href="#">Chat Bot</a></td> 
+    <td><a href="https://www.jayabharathi-hari.com/RS.html">Recommendation System</a></td> 
+    <td><a href="https://www.jayabharathi-hari.com/Chatbot_Statistical_NLP.html">Chat Bot</a></td> 
   </tr>
   <tr>
-    <td><a href="#">Statistical Analysis of Business Data</a></td>  
-    <td><a href="#">Plant Seeding Classification</a></td> 
+    <td><a href="https://www.jayabharathi-hari.com/Stats_analysis_business_data.html">Statistical Analysis of Business Data</a></td>  
+    <td><a href="https://github.com/Jayabharathi-Hari-Vijayakumar/Computer_Vision_Projects/blob/main/plant-seedlings-classification.ipynb">Plant Seeding Classification</a></td> 
   </tr>
   <tr>
-    <td><a href="#">Problem on Probability</a></td> 
-    <td><a href="#">Flower Image Classifier</a></td> 
+    <td><a href="https://www.jayabharathi-hari.com/Inferential_Stats.html">Problem on Probability</a></td> 
+    <td><a href="https://github.com/Jayabharathi-Hari-Vijayakumar/Computer_Vision_Projects/blob/main/predict_flower_type_from_images.ipynb">Flower Image Classifier</a></td> 
   <tr>
-    <td><a href="#">Movie Review Sentiment Classification</a></td> 
-    <td><a href="#">Face Mask Detection</a></td> 
+    <td><a href="#"> </a></td> 
+    <td><a href="https://github.com/Jayabharathi-Hari-Vijayakumar/Computer_Vision_Projects/blob/main/Face_Mask_Detection.ipynb">Face Mask Detection</a></td> 
   </tr>
 </table>
 
