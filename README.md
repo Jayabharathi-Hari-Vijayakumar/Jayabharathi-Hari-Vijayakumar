@@ -65,35 +65,34 @@
   </tr>
   <tr>
     <td><a href="https://www.jayabharathi-hari.com/Breast_Cancer_Classify.html"> Breast Cancer Classification</a></td>
-    <td>Singal Processing</td>
+    <td><a href="https://www.jayabharathi-hari.com/Breast_Cancer_Classify.html"> Singal Processing</a></td>
   </tr>
-   <tr>
-    <td>Personal Loan Campaign Purchase Prediction</td>
-    <td>Movie Review Sentiment Classification</td>
-  </tr>
-  <tr>
-    <td>Creadit Card Users Churn Prediction</td>
-    <td>Sarcarm Detection - New Headlines</td>
+   <tr> 
+     <td><a href="https://www.jayabharathi-hari.com/Bank_Personal_Loan_Campaign.html"> Personal Loan Campaign Purchase Prediction</a></td> 
+     <td><a href="#">Movie Review Sentiment Classification</a></td>
   </tr>
   <tr>
-    <td>Travel Package Purchase Prediction</td>
-    <td>Author Birth Sign Detection</br>from Blog Corpus</td>
+    <td><a href="https://www.jayabharathi-hari.com/bank-churn.html">Creadit Card Users Churn Prediction</a></td> 
+    <td><a href="#">Sarcarm Detection - New Headlines</a></td> 
   </tr>
   <tr>
-    <td>Recommendation System</td>
-    <td>Chat Bot</td>
+    <td><a href="#">Travel Package Purchase Prediction</a></td> 
+    <td><a href="#">Author Birth Sign Detection</br>from Blog Corpus</a></td> 
   </tr>
   <tr>
-    <td>Statistical Analysis of Business Data</td>
-    <td>Plant Seeding Classification</td>
+    <td><a href="#">Recommendation System</a></td> 
+    <td><a href="#">Chat Bot</a></td> 
   </tr>
   <tr>
-    <td>Problem on Probability</td>
-    <td>Flower Image Classifier</td>
+    <td><a href="#">Statistical Analysis of Business Data</a></td>  
+    <td><a href="#">Plant Seeding Classification</a></td> 
   </tr>
   <tr>
-    <td> </td>
-    <td>Face Mask Detection</td>
+    <td><a href="#">Problem on Probability</a></td> 
+    <td><a href="#">Flower Image Classifier</a></td> 
+  <tr>
+    <td><a href="#">Movie Review Sentiment Classification</a></td> 
+    <td><a href="#">Face Mask Detection</a></td> 
   </tr>
 </table>
 
