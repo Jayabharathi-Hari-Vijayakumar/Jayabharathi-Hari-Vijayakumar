@@ -13,7 +13,8 @@
 <a href = "https://twitter.com/Jayabharathi_H" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="40" height="40"></a>
 <!-- <a href = "" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="40" height="40"></a> -->
 <a href = "https://www.jayabharathi-hari.com" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271533-4619f6b3-586c-4123-8427-e231f52f10af.png" alt="portfolio website" width="40" height="40"></a>
-  📫 How to reach me **Jayabharathi.h@outlook.com** 
+</br><ls>📫 Reach me Out <a href = "mailto:Jayabharathi.h@outlook.com" target ="blank">Jayabharathi.h@outlook.com</a></ls> 
+</br><ls>My website 👉🏻 <a href="https://www.jayabharathi-hari.com" target="blank">https://www.jayabharathi-hari.com</a></ls> 
 </p>
 
 
@@ -53,7 +54,9 @@
 
 </p>
 
-<h2 align = "center">  My AI ML Projects </h2>
+<h2 align = "center">  My AI ML Projects </br> 👉🏻 <a href="https://www.jayabharathi-hari.com/portfolio.html" target="blank">https://www.jayabharathi-hari.com/portfolio</a> </h2> 
+
+
 
 <table align = "center">
   <tr>
@@ -62,20 +65,39 @@
   </tr>
   <tr>
     <td>Breast Cancer Classification</td>
-    <td>Personal Loan Campaign Purchase Prediction</td>
+    <td>Singal Processing</td>
   </tr>
    <tr>
-    <td>Breast Cancer Classification</td>
     <td>Personal Loan Campaign Purchase Prediction</td>
+    <td>Movie Review Sentiment Classification</td>
+  </tr>
+  <tr>
+    <td>Creadit Card Users Churn Prediction</td>
+    <td>Sarcarm Detection - New Headlines</td>
+  </tr>
+  <tr>
+    <td>Travel Package Purchase Prediction</td>
+    <td>Author Birth Sign Detection</br>from Blog Corpus</td>
+  </tr>
+  <tr>
+    <td>Recommendation System</td>
+    <td>Chat Bot</td>
+  </tr>
+  <tr>
+    <td>Statistical Analysis of Business Data</td>
+    <td>Plant Seeding Classification</td>
+  </tr>
+  <tr>
+    <td>Problem on Probability</td>
+    <td>Flower Image Classifier</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Face Mask Detection</td>
   </tr>
 </table>
 
-
-- 
-
-- 🚀 My website 👉🏻 <a href="https://www.jayabharathi-hari.com" target="blank">https://www.jayabharathi-hari.com</a>
-
-- 📰 My Projects 👉🏻 <a href="https://www.jayabharathi-hari.com/portfolio.html" target="blank">https://www.jayabharathi-hari.com/portfolio</a>
+ 
 
 <h2 align = "center"> ✍️ Random Dev Quote </h2>
  <p align = "center">
