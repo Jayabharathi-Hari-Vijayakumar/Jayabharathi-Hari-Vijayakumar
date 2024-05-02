@@ -64,7 +64,7 @@
     <th>NN and CV Projects</th>
   </tr>
   <tr>
-    <td>Breast Cancer Classification</td>
+    <td><a href="https://www.jayabharathi-hari.com/Breast_Cancer_Classify.html"> Breast Cancer Classification</a></td>
     <td>Singal Processing</td>
   </tr>
    <tr>
