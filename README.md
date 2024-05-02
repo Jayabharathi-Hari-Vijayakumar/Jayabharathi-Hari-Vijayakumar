@@ -69,15 +69,15 @@
   </tr>
    <tr> 
      <td><a href="https://www.jayabharathi-hari.com/Bank_Personal_Loan_Campaign.html"> Personal Loan Campaign Purchase Prediction</a></td> 
-     <td><a href="#">Movie Review Sentiment Classification</a></td>
+     <td><a href="https://www.jayabharathi-hari.com/Movie_Reviews_Sentiment_Classification.html">Movie Review Sentiment Classification</a></td>
   </tr>
   <tr>
     <td><a href="https://www.jayabharathi-hari.com/bank-churn.html">Creadit Card Users Churn Prediction</a></td> 
-    <td><a href="#">Sarcarm Detection - New Headlines</a></td> 
+    <td><a href="https://www.jayabharathi-hari.com/Sarcasm_Detection.html">Sarcarm Detection - New Headlines</a></td> 
   </tr>
   <tr>
-    <td><a href="#">Travel Package Purchase Prediction</a></td> 
-    <td><a href="#">Author Birth Sign Detection</br>from Blog Corpus</a></td> 
+    <td><a href="https://www.jayabharathi-hari.com/travel_package_purchage.html">Travel Package Purchase Prediction</a></td> 
+    <td><a href="https://www.jayabharathi-hari.com/Author_Birth_Sign_Detection_From_blog_authorship_corpus.html">Author Birth Sign Detection</br>from Blog Corpus</a></td> 
   </tr>
   <tr>
     <td><a href="#">Recommendation System</a></td> 
