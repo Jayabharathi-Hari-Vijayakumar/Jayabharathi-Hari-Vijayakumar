@@ -96,7 +96,7 @@
   </tr>
 </table>
 
- 
+ <h3 align="center"><a href="https://www.jayabharathi-hari.com/Cloud_Computing.html">Azure ML & AL Services Projects</a> </h3>
 
 <h2 align = "center"> ✍️ Random Dev Quote </h2>
  <p align = "center">
