@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello%2C+This+is+Jayabharathi+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+Github+profile+!" alt="typing intro">  
 </p>
 
-<h3 align="center"> 🔭 Accomplished Software Engineer with 9+ years experiance | 🌱 Aspiring Machine Learning Engineer | Master's in Data Science Candidate | 🚀 Expertise in Backend Development | 🚀 Passionate about AI & ML | Seeking Opportunities for Innovation & Impact</h3>
+<h3 align="center"> ✨ Accomplished Software Engineer with 9+ years experiance ✨ | 🚀 Data Scientist/ DL/ ML /LLM Engineer 🚀 | 🌱 Master's in Data Science Candidate 🌱 |  🔑 Passionate about AI & ML 🔑 </h3>
 
 <h1 align="center"> My Socials </h1>
 <p align="center">
