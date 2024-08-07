@@ -13,7 +13,7 @@
 <a href = "https://twitter.com/Jayabharathi_H" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="40" height="40"></a>
 <!-- <a href = "" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="40" height="40"></a> -->
 <a href = "https://www.jayabharathi-hari.com" target ="blank"> <img src="https://user-images.githubusercontent.com/95418676/218271533-4619f6b3-586c-4123-8427-e231f52f10af.png" alt="portfolio website" width="40" height="40"></a>
-</br><ls>📫 Reach me Out <a href = "mailto:Jayabharathi.h@outlook.com" target ="blank">Jayabharathi.h@outlook.com</a></ls> 
+</br><ls>📫 Reach me Out <a href = "mailto:Jayabharathi.h@outlook.com" target ="blank">Jayabharathi.v@outlook.com</a></ls> 
 </br><ls>My website 👉🏻 <a href="https://www.jayabharathi-hari.com" target="blank">https://www.jayabharathi-hari.com</a></ls> 
 </p>
 
