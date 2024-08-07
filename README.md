@@ -54,7 +54,7 @@
 
 </p>
 
-<h2 align = "center">  My AI ML Projects </br> 👉🏻 <a href="https://www.jayabharathi-hari.com/portfolio.html" target="blank">https://www.jayabharathi-hari.com/portfolio</a> </h2> 
+<h2 align = "center">  My Academic AI ML Projects </br> 👉🏻 <a href="https://www.jayabharathi-hari.com/portfolio.html" target="blank">https://www.jayabharathi-hari.com/portfolio</a> </h2> 
 
 
 
